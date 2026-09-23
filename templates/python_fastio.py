@@ -1,3 +1,13 @@
+"""
+Codeforces Round XXXX (Div. Y)
+Problem: ID - NAME
+Link:
+Rating:
+Tags:
+Key Idea: 
+"""
+
+
 import sys
 input = sys.stdin.readline
 

@@ -6,3 +6,7 @@ input.txt
 output.txt
 .vscode/
 .idea/
+*.exe
+*.o
+*.out
+tests/

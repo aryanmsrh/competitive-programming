@@ -1,9 +1,9 @@
 """
-Codeforces Round 1119 (Div. 3)
-Problem: 2259B - MINUS TWO
-Link: https://codeforces.com/problemset/problem/2259/B
-Rating: 800
-Tags: math, number theory
+Codeforces Round XXXX (Div. Y)
+Problem: ID - NAME
+Link:
+Rating:
+Tags:
 Key Idea: 
 """
 
@@ -19,6 +19,6 @@ def main():
     t = int(line.strip())
     for _ in range(t):
         solve()
-
+ 
 if __name__ == "__main__":
     main()
